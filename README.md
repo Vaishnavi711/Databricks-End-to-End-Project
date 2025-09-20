@@ -1,4 +1,4 @@
-***🔹 Databricks-End-to-End-Project***\
+***🔹 Databricks-End-to-End-Project***
 
 This project demonstrates an end-to-end data engineering pipeline built on Azure Databricks. It covers the complete data lifecycle — from ingestion, transformation, and storage, to building curated datasets(fact and dimention table) for analytics and reporting.The project simulates a real-world scenario of processing raw transaction data into meaningful business insights.
 
